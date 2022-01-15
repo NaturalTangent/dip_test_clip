@@ -4,6 +4,8 @@ This is heavily inspired by _https://www.thingiverse.com/thing:1104612_. I wante
 
 Print 2 copies to make a single test clip.
 
+![render](images/render.png)
+
 You will also require;
 
 * Metal pins to act as the clip contacts - I used 'Gold Brass Flat Headpins 50mm x 0.7mm Jewellery Making' from ebay.
@@ -18,3 +20,5 @@ So far, I have only printed the following versions (all other parameters left at
 |---------------------|----------------------|--------------|
 |dip_clip_16.stl   |   16                   |8               |
 |dip_clip_40.stl   |   40                   |14             |
+
+![assembled](images/assembled.png)
