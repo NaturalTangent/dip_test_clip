@@ -1,5 +1,7 @@
 # Parametric DIP IC Test Clip.
 
+Also on [Thingiverse](https://www.thingiverse.com/thing:4690158) where the parameters can be tweaked in the customizer.
+
 This is heavily inspired by _https://www.thingiverse.com/thing:1104612_. I wanted to make some adjustments so re-approximated it using OpenSCAD.
 
 Print 2 copies to make a single test clip.
